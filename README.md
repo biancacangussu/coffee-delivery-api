@@ -24,6 +24,6 @@ Esses endpoints permitem a comunicação direta com o frontend, simulando o flux
 | **Linguagem** | Java 21 |
 | **Framework** | [Spring Boot 3.5.5](https://spring.io/projects/spring-boot) |
 | **Build Tool** | [Maven](https://maven.apache.org/) |
-| **Banco de Dados** | [Spring Data JPA](https://spring.io/projects/spring-data-jpa) |
+| **Banco de Dados** | [JSONBin]([https://spring.io/projects/spring-data-jpa](https://jsonbin.io/)) |
 | **Servidor Web** | Tomcat embutido |
-| **Documentação** | OpenAPI / Swagger (opcional, se adicionado futuramente) |
+| **Documentação** | OpenAPI |
